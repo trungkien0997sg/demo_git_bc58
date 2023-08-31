@@ -9,3 +9,6 @@ git commit -m "tao trang home.html"
 git push -u origin master
 ++ đẩy lần 2 trở đi
 git push
+
++xem các nhánh hiện có trong máy
+git branch
