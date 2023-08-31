@@ -14,3 +14,6 @@ git push
 git branch
 +tạo nhánh
 git checkout -b [nameBranch]
+
++dem code tu master sang Login
+git merge login
