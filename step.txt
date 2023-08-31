@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/trungkien0997sg/demo_git_bc58
+
++ Đẩy từ local len remote
+git add -A 
+git commit -m "tao trang home.html"
+++ Đẩy lần đầu
+git push -u origin master
+++ đẩy lần 2 trở đi
+git push
