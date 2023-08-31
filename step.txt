@@ -10,10 +10,7 @@ git push -u origin master
 ++ đẩy lần 2 trở đi
 git push
 
-<<<<<<< HEAD
 +xem các nhánh hiện có trong máy
 git branch
-=======
 +tạo nhánh
 git checkout -b [nameBranch]
->>>>>>> login
