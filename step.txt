@@ -4,7 +4,7 @@ git remote add origin https://github.com/trungkien0997sg/demo_git_bc58
 
 + Đẩy từ local len remote
 git add -A 
-git commit -m "tao trang home.html"
+git commit -m "tao trang home.html" (tạo ra cột mốc - dùng để quay lại)
 ++ Đẩy lần đầu
 git push -u origin master
 ++ đẩy lần 2 trở đi
